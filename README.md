@@ -1,1 +1,1 @@
-# public-utility-company-regression-analysis
+# public-utility-company-model
